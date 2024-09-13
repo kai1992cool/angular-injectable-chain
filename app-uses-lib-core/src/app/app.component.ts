@@ -10,7 +10,7 @@ export class OutmostService {
     console.log("Initialized Outmost");
   }
 }
-@Component({
+@Component({ 
   selector: 'app-root',
   standalone: true,
   imports: [CommonModule, RouterOutlet],

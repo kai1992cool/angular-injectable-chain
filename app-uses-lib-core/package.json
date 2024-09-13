@@ -18,7 +18,7 @@
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
-    "lib-core": "file:../lib-core/dist/lib-core",
+    "lib-core": "file:../lib-core/dist/lib-core/lib-core-0.0.0-watch+1726241313493.tgz",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"

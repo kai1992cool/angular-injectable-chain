@@ -5,9 +5,11 @@ import { Injectable } from '@angular/core';
 import { OuterService } from 'lib-core';
 
 @Injectable({   providedIn: 'root' })
-export class OutmostService { constructor(private outer: OuterService) {
+export class OutmostService { 
+  constructor(private outer: OuterService) {
     console.log("Initialized Outmost");
-}}
+  }
+}
 @Component({
   selector: 'app-root',
   standalone: true,
